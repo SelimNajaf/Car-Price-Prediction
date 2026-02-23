@@ -100,7 +100,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📬 Contact
 **Selim Najaf**
 
-*   **LinkedIn:** [linkedin.com/in/selimnajaf-data-analyst](https://www.linkedin.com/in/selimnajaf/)
+*   **LinkedIn:** [linkedin.com/in/selimnajaf](https://www.linkedin.com/in/selimnajaf/)
 *   **GitHub:** [github.com/SelimNajaf](https://github.com/SelimNajaf)
 
 *If you found this project helpful, please consider giving it a ⭐ on GitHub!*
