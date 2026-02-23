@@ -3,8 +3,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 ## 📖 Project Overview
 The **Car Price Predictor** is a complete, end-to-end Machine Learning solution designed to estimate the market value of used cars. This project demonstrates the full data science lifecycle: from synthetic data generation and preprocessing to model evaluation and eventual deployment as an interactive web application. 
