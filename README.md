@@ -31,7 +31,7 @@ Since real-world data can be messy or proprietary, this project auto-generates a
 ## 🛠️ Project Architecture
 
 ```text
-├── [Insert Your Jupyter Notebook Name].ipynb  # Data generation & model training script
+├── car_price_prediction.ipynb  # Data generation & model training script
 ├── app.py                                     # Streamlit web application interface
 ├── cars_data.csv                              # Generated synthetic dataset (Output)
 ├── car_price_prediction.joblib                # Serialized Scikit-Learn pipeline (Output)
@@ -44,7 +44,7 @@ To run this project locally, ensure you have Python 3.8+ installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone [Insert Repository Link Here]
+   git clone [https://github.com/SelimNajaf/Car-Price-Prediction/tree/main]
    cd [Insert Repository Directory Name]
    ```
 
